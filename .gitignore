@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+ngrok
+venv/
+static/images/icons
